@@ -1,0 +1,22 @@
+# Document Of Pattern
+
+- Basic Types
+  - Boolean
+  - Number
+    - int(+)
+    - float(+)
+  - String
+    - char
+    - string
+- Complex Types
+  - Error
+  - Enum
+  - Array
+  - Map
+  - Class | Struct
+  - Interface
+  - Funtion
+- Flow
+  - if
+  - for
+  - switch
