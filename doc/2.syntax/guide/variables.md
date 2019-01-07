@@ -63,12 +63,12 @@ enum SomeEnum {
 ## array
 
 ```io
-var numArray = []number{2019}
+var numArray = []number{2018, 2019}
 
-numArray := []number{2019}
+numArray := []number{2018, 2019}
 
 var numArray []number
-numArray = []number{2019}
+numArray = []number{2018, 2019}
 ```
 
 ## map

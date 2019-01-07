@@ -2,6 +2,6 @@
 
 - number
 - string
-- array
 - boolean
 - emun
+- array
