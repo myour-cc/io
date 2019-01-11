@@ -28,6 +28,3 @@
   - 符号表「Symbol Table」
   - 错误处理「Error Handling」
 
-## 前端
-
-## 后端

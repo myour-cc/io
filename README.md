@@ -2,16 +2,13 @@
 
 IO is a computer-programming language
 
-## todo
+## todolist
 
-### project
+### core
 
-build tool
+- compilre
 
-- framework
+### others
+
+- web server framework
 - orm
-- template
-
-### create
-
-basic lang
